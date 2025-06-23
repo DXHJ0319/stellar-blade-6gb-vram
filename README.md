@@ -5,3 +5,6 @@ stellar-blade-6g-vram-config
 - 移除部分高開銷後處理（Bloom、Volumetric Fog、Lens Flare）
 - 全面開啟異步與 Shader 快取，降低掉幀與 shader 卡頓
 - 記憶體池與虛擬貼圖調整，壓榨顯卡空間極限
+
+*提醒
+請將你的DLSS檔位固定，不要開自動以減少VRAM使用
